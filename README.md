@@ -84,7 +84,7 @@ All my command-line tools and its configurations. Have fun :)
 * Disable the warning before emptying the Trash
 * Disable the warning when changing a file extension
 * Disable the “Are you sure you want to open this application?” dialog
-* Disable “natural” (Lion-style) scrolling
+* Enable “natural” (Lion-style) scrolling
 * Display full POSIX path as Finder window title
 * Don’t animate opening applications from the Dock
 * Don’t automatically rearrange Spaces based on most recent use
