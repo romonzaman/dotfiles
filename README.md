@@ -107,7 +107,7 @@ All my command-line tools and its configurations. Have fun :)
 * Finder: show status bar
 * Follow the keyboard focus while zoomed in
 * Four-letter codes for the other view modes: `icnv`, `Nlsv`, `Flwv`
-* Hot corners
+* Disable Hot corners
 * Increase grid spacing for icons on the desktop and in other icon views
 * Increase sound quality for Bluetooth headphones/headsets
 * Increase the size of icons on the desktop and in other icon views
